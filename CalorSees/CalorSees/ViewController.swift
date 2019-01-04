@@ -13,7 +13,7 @@ import Social
 
 class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavigationControllerDelegate{
     
-    let apiKey = "fbcd915e6875571676ce33843a6acc6f59db0e28"
+    let apiKey = "INSERT-API-KEY"
     let version = "2017-05-19"
     
     @IBOutlet weak var shareButton: UIButton!
@@ -27,7 +27,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        shareButton.isHidden = true
+        shareButton.isHidden = truefbcd915e6875571676ce33843a6acc6f59db0e28
         
         imagePicker.delegate = self
     }
