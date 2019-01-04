@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  SeeFood
+//  CalorSees
 //
 //  Created by Justin Dearden on 23/09/2018.
 //  Copyright © 2018 Justin Dearden. All rights reserved.
